@@ -1,12 +1,12 @@
 const products = [
-  { id: 1, name: "Men's Wear 1", price: 4000, discount: 1999, image: "img/red_shirt.png" },
-  { id: 2, name: "Men's Wear 2", price: 3500, discount: 1800, image: "img/green_shirt.png" },
-  { id: 3, name: "Men's Wear 3", price: 1599, discount: 899, image: "img/blue_shirt.png" },
-  { id: 4, name: "Men's Wear 4", price: 1000, discount: 599, image: "img/rd_shirt.png" },
-  { id: 5, name: "Men's Wear 5", price: 2500, discount: 1599, image: "img/black_shirt.png" }
+  { id: 1, name: "Men's Wear 1", price: 4000, discount: 1999, image: "img/img/black_shirt.PNG" },
+  { id: 2, name: "Men's Wear 2", price: 3500, discount: 1800, image: "img/green_shirt.PNG " },
+  { id: 3, name: "Men's Wear 3", price: 1599, discount: 899, image: "img/blue_shirt.PNG" },
+  { id: 4, name: "Men's Wear 4", price: 1000, discount: 599, image: "img/rd_shirt.PNG" },
+  { id: 5, name: "Men's Wear 5", price: 2500, discount: 1599, image: "img/black_shirt.PNG" }
 ];
 
-const recipientNumber = "918056337171";
+const recipientNumber = "919003581835";
 
 const productList = document.getElementById("product-list");
 
