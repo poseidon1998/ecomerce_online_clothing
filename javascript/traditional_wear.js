@@ -1,5 +1,5 @@
 const products = [
-  { id: 1, name: "Men's Wear 1", price: 4000, discount: 1999, image: "img/img/black_shirt.PNG" },
+  { id: 1, name: "Men's Wear 1", price: 4000, discount: 1999, image: "img/black_shirt.PNG" },
   { id: 2, name: "Men's Wear 2", price: 3500, discount: 1800, image: "img/green_shirt.PNG " },
   { id: 3, name: "Men's Wear 3", price: 1599, discount: 899, image: "img/blue_shirt.PNG" },
   { id: 4, name: "Men's Wear 4", price: 1000, discount: 599, image: "img/rd_shirt.PNG" },
